@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: salmon;
+}
+
+p {
+    text-align: center;
+}
+
+#test {
+    width: 50%;
+    margin-left: 300px;
+    padding: 20px 40px 40px 20px;
+    background-color: slategrey;
+    border: steelblue 3px solid;
+}
+
+#seconds-counter {
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+#testComplete {
+    text-align: center;
+}
